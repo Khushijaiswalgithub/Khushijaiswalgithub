@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushijaiswalgithub&label=Profile%20views&color=0e75b6&style=flat" alt="khushijaiswalgithub" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Nextjs , React , Typescript**
 
 - 📫 How to reach me **23khushijaiswal2003@gmail.com**
 
